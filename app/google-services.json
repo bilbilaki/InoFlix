@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "734804961771",
+    "project_id": "bibilto",
+    "storage_bucket": "bibilto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734804961771:android:bb979d141bb9e52a7b51ae",
+        "android_client_info": {
+          "package_name": "com.app.thestream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3bK5R8LLXuNGOjWtDSpGWGSsrIofJF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734804961771:android:15dc5090604418277b51ae",
+        "android_client_info": {
+          "package_name": "com.inosuke.movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3bK5R8LLXuNGOjWtDSpGWGSsrIofJF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734804961771:android:511a98dc3121af257b51ae",
+        "android_client_info": {
+          "package_name": "com.inosuke.stream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3bK5R8LLXuNGOjWtDSpGWGSsrIofJF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
